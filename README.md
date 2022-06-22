@@ -1,3 +1,9 @@
+# Demo app implementing redux toolkit 
+
+This project was built to use redux toolkit in a simple way for those who are learning mordern redux
+
+This project uses OMDB API to show movies data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
